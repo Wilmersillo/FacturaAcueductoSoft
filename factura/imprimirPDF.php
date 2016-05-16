@@ -21,7 +21,7 @@ $pdf->SetDrawColor(0,0,255);
 $pdf->Cell(80, 8, '', 0);
 
 $pdf->SetFillColor(232,232,232);
-$pdf->Cell(120, 8, 'RECIBO', 0);
+$pdf->Cell(120, 8, 'FACTURA', 0);
 
 $pdf->Ln(20);
 
